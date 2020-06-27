@@ -19,4 +19,4 @@ networking:
   dnsDomain: cluster.local
   podSubnet: ""
   serviceSubnet: 10.96.0.0/12
-scheduler: {}
+scheduler: {} 
